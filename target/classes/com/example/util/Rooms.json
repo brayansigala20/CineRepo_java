@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "sala1",
+    "capacity": 20,
+    "seats": []
+  },
+  {
+    "id": 2,
+    "name": "sala2",
+    "capacity": 15,
+    "seats": []
+  },
+  {
+    "id": 3,
+    "name": "sala3",
+    "capacity": 30,
+    "seats": []
+  },
+  {
+    "id": 4,
+    "name": "sala4",
+    "capacity": 25,
+    "seats": []
+  },
+  {
+    "id": 5,
+    "name": "sala5",
+    "capacity": 10,
+    "seats": []
+  }
+]

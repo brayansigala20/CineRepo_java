@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "IT"
+  },
+  {
+    "id": 2,
+    "name": "HR"
+  },
+  {
+    "id": 3,
+    "name": "Finance"
+  },
+  {
+    "id": 4,
+    "name": "Admin"
+  },
+  {
+    "id": 5,
+    "name": "Sales"
+  },
+  {
+    "id": 6,
+    "name": "Marketing"
+  },
+  {
+    "id": 7,
+    "name": "Production"
+  },
+  {
+    "id": 8,
+    "name": "Quality"
+  },
+  {
+    "id": 9,
+    "name": "R&D"
+  },
+  {
+    "id": 10,
+    "name": "Purchase"
+  },
+  {
+    "id": 11,
+    "name": "Logistics"
+  },
+  {
+    "id": 12,
+    "name": "Customer Service"
+  },
+  {
+    "id": 13,
+    "name": "Legal"
+  },
+  {
+    "id": 14,
+    "name": "Compliance"
+  },
+  {
+    "id": 15,
+    "name": "Security"
+  },
+  {
+    "id": 16,
+    "name": "Facility"
+  },
+  {
+    "id": 17,
+    "name": "Health & Safety"
+  },
+  {
+    "id": 18,
+    "name": "Environment"
+  },
+  {
+    "id": 19,
+    "name": "Training"
+  },
+  {
+    "id": 20,
+    "name": "Others"
+  }
+]

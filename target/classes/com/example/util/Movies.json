@@ -1,0 +1,72 @@
+[
+  {
+    "title": "The Shawshank Redemption",
+    "duration": 142,
+    "genre": "Drama",
+    "director": "Frank Darabont",
+    "actors": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"]
+  },
+  {
+    "title": "The Godfather",
+    "duration": 175,
+    "genre": "Crime",
+    "director": "Francis Ford Coppola",
+    "actors": ["Marlon Brando", "Al Pacino", "James Caan"]
+  },
+  {
+    "title": "The Dark Knight",
+    "duration": 152,
+    "genre": "Action",
+    "director": "Christopher Nolan",
+    "actors": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"]
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "duration": 201,
+    "genre": "Adventure",
+    "director": "Peter Jackson",
+    "actors": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"]
+  },
+  {
+    "title": "Pulp Fiction",
+    "duration": 154,
+    "genre": "Crime",
+    "director": "Quentin Tarantino",
+    "actors": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"]
+  },
+  {
+    "title": "Forrest Gump",
+    "duration": 142,
+    "genre": "Drama",
+    "director": "Robert Zemeckis",
+    "actors": ["Tom Hanks", "Robin Wright", "Gary Sinise"]
+  },
+  {
+    "title": "Inception",
+    "duration": 148,
+    "genre": "Action",
+    "director": "Christopher Nolan",
+    "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"]
+  },
+  {
+    "title": "The Matrix",
+    "duration": 136,
+    "genre": "Action",
+    "director": "Lana Wachowski",
+    "actors": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"]
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "duration": 118,
+    "genre": "Crime",
+    "director": "Jonathan Demme",
+    "actors": ["Jodie Foster", "Anthony Hopkins", "Lawrence A. Bonney"]
+  },
+  {
+    "title": "The Departed",
+    "duration": 151,
+    "genre": "Crime",
+    "director": "Martin Scorsese",
+    "actors": ["Leonardo DiCaprio", "Matt Damon", "Jack Nicholson"]
+  }
+]

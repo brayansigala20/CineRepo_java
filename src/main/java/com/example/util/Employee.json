@@ -1,0 +1,65 @@
+[
+  {
+    "idEmployee": 1,
+    "salary": 1000.0,
+    "department": {
+      "id": 1,
+      "name": "IT"
+    },
+    "name": "John"
+  },
+  {
+    "idEmployee": 2,
+    "salary": 2000.0,
+    "department": {
+      "id": 2,
+      "name": "HR"
+    },
+    "name": "Jane"
+  },
+  {
+    "idEmployee": 3,
+    "salary": 3000.0,
+    "department": {
+      "id": 3,
+      "name": "Finance"
+    },
+    "name": "Doe"
+  },
+  {
+    "idEmployee": 4,
+    "salary": 4000.0,
+    "department": {
+      "id": 4,
+      "name": "Marketing"
+    },
+    "name": "Smith"
+  },
+  {
+    "idEmployee": 5,
+    "salary": 5000.0,
+    "department": {
+      "id": 5,
+      "name": "Sales"
+    },
+    "name": "Alex"
+  },
+  {
+    "idEmployee": 6,
+    "salary": 6000.0,
+    "department": {
+      "id": 6,
+      "name": "Production"
+    },
+    "name": "Tom"
+  },
+  {
+    "idEmployee": 7,
+    "salary": 7000.0,
+    "department": {
+      "id": 7,
+      "name": "Logistics"
+    },
+    "name": "Jerry"
+  }
+]
